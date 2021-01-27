@@ -1,0 +1,4 @@
+C:\Desarrollo\Docker-Demo\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.csprojAssemblyReference.cache
+C:\Desarrollo\Docker-Demo\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfoInputs.cache
+C:\Desarrollo\Docker-Demo\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfo.cs
+C:\Desarrollo\Docker-Demo\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.csproj.CoreCompileInputs.cache
